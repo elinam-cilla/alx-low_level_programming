@@ -5,8 +5,8 @@
 #include <stdio.h>
 
 void postitive_or_negative(int i);
-int largest-number(int a, int b, int c);
+int largest_number(int a, int b, int c);
 int covert_ay(int month, int day);
-void print_remaining_days(int month,int day, int year);
+void print_remaining_days(int month, int day, int year);
 
 endif /* MAIN_H */
